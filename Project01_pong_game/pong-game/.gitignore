@@ -1,0 +1,15 @@
+# created by virtualenv automatically
+# Python-related
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+env/
+
+# Editor settings
+.idea/
+.vscode/
+
+# OS files (especially macOS)
+.DS_Store
