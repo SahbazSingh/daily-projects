@@ -42,7 +42,7 @@ This is a simple Pong game built with **Python** using the **Turtle graphics** m
 ---
 ## ✅ How to Run
 
-1. Clone the repository:
+1. Clone the full daily projects repository:
    ```bash
-   git clone https://github.com/SahbazSingh/pong-game.git
-   cd pong-game
+   git clone https://github.com/SahbazSingh/daily-projects.git
+   cd daily-projects/Project01_pong_game/pong-game
