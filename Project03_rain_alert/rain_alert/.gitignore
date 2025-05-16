@@ -1,6 +1,10 @@
-# Ignore environment variables
+# Ignore environment and credentials
 .env
 
-# Optional: Ignore Python cache files
+# Ignore PyCharm project files
+.idea/
+*.iml
+
+# Ignore Python cache
 __pycache__/
 *.pyc
